@@ -1,11 +1,18 @@
 # A Fruitful Escape: The Melon Quest
 Welcome to A Fruitful Escape: The Melon Quest, a delightful 2D platformer game created by Tameema Mamun. Embark on a juicy adventure through three exciting levels, collecting watermelons, avoiding traps, and experiencing the sweet thrill of victory!
+
 ## About the Game 
 - Game Title: A Fruitful Escape: The Melon Quest
 - Developer: Tameema Mamun
 - Contributors: Tameema Mamun
 - Development Tools: Visual Studio Code (VSCode), Unity, C#
 - Asset Credits: Pixel Adventure 1 (Unity Asset Store), Casual Game BGM05, Casual Game Sounds(Default Asset)
+
+## Screenshots
+<img width="549" alt="image" src="https://github.com/mamuntameema/2D-Platformer-Game/assets/143912915/c97063fb-b9ce-418b-ab60-4c8caa4cd8c4"> 
+<img width="548" alt="image" src="https://github.com/mamuntameema/2D-Platformer-Game/assets/143912915/ddc30d4a-e2f8-4cd9-b0d1-5f3a6b97b709"> 
+<img width="550" alt="image" src="https://github.com/mamuntameema/2D-Platformer-Game/assets/143912915/b5163457-19f0-4756-b532-a3de6aab3310"> 
+<img width="551" alt="image" src="https://github.com/mamuntameema/2D-Platformer-Game/assets/143912915/2746b68f-68e2-41a6-9506-2067a62f651e">
 
 ## Gameplay Highlights
 - Tilemaps: The game features meticulously crafted tilemaps for terrain, background, and overlay backgrounds, enhancing the visual appeal.
