@@ -6,7 +6,7 @@ Welcome to A Fruitful Escape: The Melon Quest, a delightful 2D platformer game c
 - Developer: Tameema Mamun
 - Contributors: Tameema Mamun
 - Development Tools: Visual Studio Code (VSCode), Unity, C#
-- Asset Credits: Pixel Adventure 1 (Unity Asset Store), Casual Game BGM05, Casual Game Sounds(Default Asset)
+- Asset Credits: Pixel Adventure 1 (Unity Asset Store), Casual Game BGM05 (Unity Asset Store), Casual Game Sounds(Unity Asset Store)
 
 ## Screenshots
 <img width="549" alt="image" src="https://github.com/mamuntameema/2D-Platformer-Game/assets/143912915/c97063fb-b9ce-418b-ab60-4c8caa4cd8c4"> 
@@ -70,6 +70,10 @@ Welcome to A Fruitful Escape: The Melon Quest, a delightful 2D platformer game c
 
 ## Enjoy the Game!
 Thank you for choosing "A Fruitful Escape: The Melon Quest" for your gaming adventure. We hope you have a melon-tastic time playing! If you encounter any issues or have feedback, feel free to reach out to Tameema Mamun, the developer, for assistance and improvements. Happy gaming! 🍉🎮
+
+## Credits
+I would like to give credit to the following Youtube tutorial series by "Coding in Flow." 
+https://youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U&si=tbVgfVmeSKkpQnzJ 
 
 
 
